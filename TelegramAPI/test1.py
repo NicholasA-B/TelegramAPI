@@ -20,7 +20,7 @@ def get_data():
 
     headers = {
         'Accepts':'application/json',
-        'X-CMC_PRO_API_KEY':'482975e5-8857-4b8e-87ac-86f085243ce8'
+        'X-CMC_PRO_API_KEY':'x'
     }
 
     session = Session()
